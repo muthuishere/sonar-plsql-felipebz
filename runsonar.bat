@@ -1,0 +1,1 @@
+sonar-runner -Dproject.settings=./sonar.properties
